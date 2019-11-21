@@ -14,9 +14,9 @@ A small program that takes Input from user and outputs the person who should be 
 
 
 #Input format example:
-3 2 edward
-liza edward kyla
-charles liza edward
-william charles elizabeth
-william
-liza
+- 3 2 edward
+- liza edward kyla
+- charles liza edward
+- william charles elizabeth
+- william
+- liza
